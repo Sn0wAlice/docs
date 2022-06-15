@@ -169,7 +169,7 @@ function purgeFromStartme(items){
 function generateMarkdown(data){
     let str = ""
     for(let i = 0; i < data.length; i++){
-        str += `## ${data[i].title}\n`
+        str += `## ${data[i].title}\n<br>\n`
         for(let j = 0; j < data[i].links.length; j++){
             str += `<img src="${data[i].links[j].icon}" heigth="12" width="12"> [${data[i].links[j].title}](${data[i].links[j].url}) ${data[i].links[j].description}<br>\n`
         }
