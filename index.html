@@ -3,15 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.3.0.708613438078">
 
     <!-- See retype.com -->
-    <meta name="generator" content="Retype 2.2">
+    <meta name="generator" content="Retype 2.3.0">
 
     <!-- Primary Meta Tags -->
     <title>Alice Doc</title>
     <meta name="title" content="Alice Doc">
     <meta name="description" content="À propos de moi:" />
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://doc.cyberdream.space/" />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -29,11 +32,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/resources/css/retype.css?v=2.2.705594091695" rel="stylesheet" data-turbo-track="reload" />
+    <link href="resources/css/retype.css?v=2.3.0.708613438078" rel="stylesheet" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.2.705594091695" defer data-turbo-track="reload"></script>
-    <script type="text/javascript" src="/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.2.705594091695" defer></script>
+    <script type="text/javascript" src="resources/js/config.js?v=2.3.0.708613438078" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="resources/js/retype.js?v=2.3.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="resources/js/lunr.js?v=2.3.0.708613438078" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -48,7 +51,7 @@
                 <!-- Logo -->
                 <div class="flex items-center justify-between h-full py-2 md:w-75">
                     <div class="flex items-center px-2 md:px-6">
-                        <a id="docs-site-logo" href="/" class="flex items-center leading-snug text-2xl">
+                        <a id="docs-site-logo" href="" class="flex items-center leading-snug text-2xl">
                             <span class="dark:text-white font-semibold line-clamp-1 md:line-clamp-2">Alice Doc</span>
                         </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">Docs</span>
                     </div>
@@ -60,6 +63,7 @@
                     <!-- Top Nav -->
                     <nav class="hidden md:flex">
                         <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                            
                         </ul>
                     </nav>
         
@@ -174,60 +178,60 @@
 <ul>
 <li><a href=""><strong>Système</strong> <svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path fill-rule="evenodd" d="M7.875 2.292a.125.125 0 00-.032.018A7.24 7.24 0 004.75 8.25a7.247 7.247 0 003.654 6.297c.57.327.982.955.941 1.682v.002l-.317 6.058a.75.75 0 11-1.498-.078l.317-6.062v-.004c.006-.09-.047-.215-.188-.296A8.747 8.747 0 013.25 8.25a8.74 8.74 0 013.732-7.169 1.547 1.547 0 011.709-.064c.484.292.809.835.809 1.46v4.714a.25.25 0 00.119.213l2.25 1.385c.08.05.182.05.262 0l2.25-1.385a.25.25 0 00.119-.213V2.478c0-.626.325-1.169.81-1.461a1.547 1.547 0 011.708.064 8.74 8.74 0 013.732 7.17 8.747 8.747 0 01-4.41 7.598c-.14.081-.193.206-.188.296v.004l.318 6.062a.75.75 0 11-1.498.078l-.317-6.058v-.002c-.041-.727.37-1.355.94-1.682A7.247 7.247 0 0019.25 8.25a7.24 7.24 0 00-3.093-5.94.125.125 0 00-.032-.018l-.01-.001c-.003 0-.014 0-.031.01-.036.022-.084.079-.084.177V7.19a1.75 1.75 0 01-.833 1.49l-2.25 1.385a1.75 1.75 0 01-1.834 0l-2.25-1.384A1.75 1.75 0 018 7.192V2.477c0-.098-.048-.155-.084-.176a.062.062 0 00-.031-.011l-.01.001z"/></g></g></svg></a>
 <ul>
-<li><a href="/systeme/os/">Choose my os</a></li>
-<li><a href="/systeme/monitoring/">Monitoring</a>
+<li><a href="systeme/os/">Choose my os</a></li>
+<li><a href="systeme/monitoring/">Monitoring</a>
 <ul>
-<li><a href="/systeme/monitoring/grafana/">Grafana</a></li>
-<li><a href="/systeme/monitoring/node_exporter/">Node exporter</a></li>
+<li><a href="systeme/monitoring/grafana/">Grafana</a></li>
+<li><a href="systeme/monitoring/node_exporter/">Node exporter</a></li>
 </ul>
 </li>
-<li><a href="/systeme/tor/">Configuration Tor</a></li>
-<li><a href="/systeme/web/">Configuration web</a>
+<li><a href="systeme/tor/">Configuration Tor</a></li>
+<li><a href="systeme/web/">Configuration web</a>
 <ul>
-<li><a href="/systeme/web/apache/">Apache2</a></li>
+<li><a href="systeme/web/apache/">Apache2</a></li>
 </ul>
 </li>
 </ul>
 </li>
 <li><a href=""><strong>Dev</strong> <svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path fill-rule="evenodd" d="M3 3a2 2 0 012-2h9.982a2 2 0 011.414.586l4.018 4.018A2 2 0 0121 7.018V21a2 2 0 01-2 2H4.75a.75.75 0 010-1.5H19a.5.5 0 00.5-.5V8.5h-4a2 2 0 01-2-2v-4H5a.5.5 0 00-.5.5v6.25a.75.75 0 01-1.5 0V3zm12-.5v4a.5.5 0 00.5.5h4a.5.5 0 00-.146-.336l-4.018-4.018A.5.5 0 0015 2.5z"/><path d="M4.53 12.24a.75.75 0 01-.039 1.06l-2.639 2.45 2.64 2.45a.75.75 0 11-1.022 1.1l-3.23-3a.75.75 0 010-1.1l3.23-3a.75.75 0 011.06.04zm3.979 1.06a.75.75 0 111.02-1.1l3.231 3a.75.75 0 010 1.1l-3.23 3a.75.75 0 11-1.021-1.1l2.639-2.45-2.64-2.45z"/></g></g></svg></a>
 <ul>
-<li><a href="/dev/deno/">Deno</a></li>
-<li><a href="/dev/simple/">Simple</a></li>
+<li><a href="dev/deno/">Deno</a></li>
+<li><a href="dev/simple/">Simple</a></li>
 </ul>
 </li>
-<li><a href="/systeme/reseau/"><strong>Réseau</strong> <svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path fill-rule="evenodd" d="M3.5 3.25a.75.75 0 01.75-.75C14.053 2.5 22 10.447 22 20.25a.75.75 0 01-1.5 0C20.5 11.275 13.225 4 4.25 4a.75.75 0 01-.75-.75zM3.5 19a2 2 0 114 0 2 2 0 01-4 0zm.75-9.5a.75.75 0 000 1.5 9.25 9.25 0 019.25 9.25.75.75 0 001.5 0C15 14.313 10.187 9.5 4.25 9.5z"/></g></g></svg></a>
+<li><a href="systeme/reseau/"><strong>Réseau</strong> <svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path fill-rule="evenodd" d="M3.5 3.25a.75.75 0 01.75-.75C14.053 2.5 22 10.447 22 20.25a.75.75 0 01-1.5 0C20.5 11.275 13.225 4 4.25 4a.75.75 0 01-.75-.75zM3.5 19a2 2 0 114 0 2 2 0 01-4 0zm.75-9.5a.75.75 0 000 1.5 9.25 9.25 0 019.25 9.25.75.75 0 001.5 0C15 14.313 10.187 9.5 4.25 9.5z"/></g></g></svg></a>
 <ul>
-<li><a href="/systeme/reseau/general/">Notions</a>
+<li><a href="systeme/reseau/general/">Notions</a>
 <ul>
-<li><a href="/systeme/reseau/general/encapsulation/">Encapsulation</a></li>
-<li><a href="/systeme/reseau/general/modele-osi/">Modele Osi</a></li>
-<li><a href="/systeme/reseau/general/tcp-ip/">TCP IP</a></li>
-<li><a href="/systeme/reseau/general/trame-v2/">Ethernet V2</a></li>
+<li><a href="systeme/reseau/general/encapsulation/">Encapsulation</a></li>
+<li><a href="systeme/reseau/general/modele-osi/">Modele Osi</a></li>
+<li><a href="systeme/reseau/general/tcp-ip/">TCP IP</a></li>
+<li><a href="systeme/reseau/general/trame-v2/">Ethernet V2</a></li>
 </ul>
 </li>
-<li><a href="/systeme/reseau/outils/">Outils</a>
+<li><a href="systeme/reseau/outils/">Outils</a>
 <ul>
-<li><a href="/systeme/reseau/outils/ping/">Ping</a></li>
-<li><a href="/systeme/reseau/outils/traceroute/">Traceroute</a></li>
-<li><a href="/systeme/reseau/outils/whois/">Whois</a></li>
+<li><a href="systeme/reseau/outils/ping/">Ping</a></li>
+<li><a href="systeme/reseau/outils/traceroute/">Traceroute</a></li>
+<li><a href="systeme/reseau/outils/whois/">Whois</a></li>
 </ul>
 </li>
 </ul>
 </li>
 <li><a href=""><strong>Secu</strong> <svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path fill-rule="evenodd" d="M7.72.22a.75.75 0 011.06 0l1.204 1.203A4.983 4.983 0 0112 1c.717 0 1.4.151 2.016.423L15.22.22a.75.75 0 011.06 1.06l-.971.972A4.988 4.988 0 0117 6v1.104a2.755 2.755 0 011.917 1.974l1.998-.999a.75.75 0 01.67 1.342L19 10.714V13.5l3.25.003a.75.75 0 110 1.5L19 15.001V16a7.02 7.02 0 01-.204 1.686.833.833 0 01.04.018l2.75 1.375a.75.75 0 11-.671 1.342l-2.638-1.319A7 7 0 0112 23a7 7 0 01-6.197-3.742l-2.758 1.181a.75.75 0 11-.59-1.378l2.795-1.199A7.007 7.007 0 015 16v-.996H1.75a.75.75 0 010-1.5H5v-2.79L2.415 9.42a.75.75 0 01.67-1.342l1.998.999A2.755 2.755 0 017 7.104V6a4.99 4.99 0 011.69-3.748l-.97-.972a.75.75 0 010-1.06zM8.5 7h7V6a3.5 3.5 0 10-7 0v1zm-2 3.266V9.75c0-.69.56-1.25 1.25-1.25h8.5c.69 0 1.25.56 1.25 1.25V16a5.5 5.5 0 01-11 0v-5.734z"/></g></g></svg></a>
 <ul>
-<li><a href="/cybersecu/reseau/">Réseau</a>
+<li><a href="cybersecu/reseau/">Réseau</a>
 <ul>
-<li><a href="/cybersecu/reseau/dns-rebinding/">DNS rebinding</a></li>
-<li><a href="/cybersecu/reseau/ftp/">FTP</a></li>
+<li><a href="cybersecu/reseau/dns-rebinding/">DNS rebinding</a></li>
+<li><a href="cybersecu/reseau/ftp/">FTP</a></li>
 </ul>
 </li>
-<li><a href="/cybersecu/osint/">Osint</a></li>
+<li><a href="cybersecu/osint/">Osint</a></li>
 </ul>
 </li>
 <li><a href=""><strong>Projets</strong> <svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path d="M8.75 11a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0v-3.5a.75.75 0 01.75-.75zm7.25.75a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/><path fill-rule="evenodd" d="M9.813 1a.75.75 0 000 1.5H11.5V5H4.25A2.25 2.25 0 002 7.25v5.25H.75a.75.75 0 000 1.5H2v5.75A2.25 2.25 0 004.25 22h15.5A2.25 2.25 0 0022 19.75V14h1.25a.75.75 0 000-1.5H22V7.25A2.25 2.25 0 0019.75 5H13V1.75a.75.75 0 00-.75-.75H9.812zM3.5 7.25a.75.75 0 01.75-.75h15.5a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75H4.25a.75.75 0 01-.75-.75V7.25z"/></g></g></svg></a>
 <ul>
-<li><a href="/projets/alina/">Alina</a></li>
+<li><a href="projets/alina/">Alina</a></li>
 </ul>
 </li>
 </ul>
@@ -252,7 +256,7 @@
                                     </div>
                             
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l rounded-r-lg transition-colors duration-150 relative hover:z-5" href="/cybersecu/honeypot/">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l rounded-r-lg transition-colors duration-150 relative hover:z-5" href="cybersecu/honeypot/">
                                             <span>
                                                 <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
                                                 <span class="block mt-1">Honey​Pot</span>
@@ -299,6 +303,6 @@
 
     <div id="docs-overlay-target"></div>
 
-    <script>window.__DOCS__ = { "title": "Alice Doc 🎐", icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
+    <script>window.__DOCS__ = { "title": "Alice Doc 🎐", isRoot: true, level: 0, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
 </body>
 </html>
