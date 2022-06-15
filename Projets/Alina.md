@@ -1,5 +1,5 @@
 # Alina 🎀
-<img src="./.github/logo.png">
+<img src="https://github.com/Sn0wAlice/Alina/blob/main/.github/logo.png?raw=true">
 
 # Project description
 The Alina project is a project that is developed as part of the fight against child abuse on the Internet and more particularly on mirror networks like Tor.<br>
@@ -87,17 +87,31 @@ If you are not able to install me in the tutorial even with the help scripts inc
 
 # Functionalities
 The script explanation is available [here](https://github.com/Sn0wAlice/Alina/wiki/) 🐰<br>
-The Alina map [here](https://sn0walice.github.io/Alina/)<br>
+The Alina functionalities map [here](https://sn0walice.github.io/Alina/)<br>
 
+## Tor
 | Name | Category | Legal disclamer |
 | :--- | :------- | :-------------- |
 | Tor indexer | Tor | **extreme** / educational purposes only |
 | Tor Sherlock | Tor | **extreme** / educational purposes only |
+
+## Website exploit
+| Name | Category | Legal disclamer |
+| :--- | :------- | :-------------- |
 | Website subdomain finder | web exploit | educational purposes only |
 | Website dir brut | web exploit | educational purposes only |
+
+## General tools
+| Name | Category | Legal disclamer |
+| :--- | :------- | :-------------- |
 | Email generator | osint | free to use / 100% legal |
 | Check email on website | osint | free to use / educational purposes only |
 | Get instagram infos | osint | free to use / educational purposes only | 
+
+## Country
+All available country are stored [here](https://github.com/Sn0wAlice/Alina/blob/main/tools/osint/country/dbc/list.json)<br>
+Base on [this link](https://doc.cyberdream.space/cybersecu/osint/osint-c-global/)
+
 
 # Contributors
 - [Alice Snow](https://github.com/Sn0wAlice) 💗

@@ -4,10 +4,11 @@ icon: diamond
 ---
 
 # Canada
-Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au Canada<br><br>
+Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au Canada<br>
 
 
 ## TOOLS
+<br>
 <img src="https://f.start.me/cryptpad.fr" heigth="12" width="12"> [Cryptpad.fr](https://cryptpad.fr/) <br>
 <img src="https://f.start.me/gchq.github.io" heigth="12" width="12"> [CyberChef](https://gchq.github.io/CyberChef/) <br>
 <img src="https://f.start.me/pad.riseup.net" heigth="12" width="12"> [Pad.riseup.net](https://pad.riseup.net/) <br>
@@ -23,6 +24,7 @@ Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au 
 <img src="https://f.start.me/bing.com" heigth="12" width="12"> [Bing Microsoft Translator](https://www.bing.com/translator/) <br>
 <img src="https://f.start.me/deepl.com" heigth="12" width="12"> [DeepL Translate](https://www.deepl.com/translator) <br>
 ## OSINT
+<br>
 <img src="https://f.start.me/411.ca" heigth="12" width="12"> [411.ca](https://411.ca/) <br>
 <img src="https://f.start.me/canada411.ca" heigth="12" width="12"> [Canada 411](https://www.canada411.ca/) Find any persons across Canada on Canada 411 thanks to Canada411.ca™, Canada’s People Directory. Get maps, direction search, area or postal codes or even perform a reverse search with an address or...<br>
 <img src="https://f.start.me/whitepagescanada.ca" heigth="12" width="12"> [White Pages Canada](https://www.whitepagescanada.ca/) <br>
@@ -35,6 +37,7 @@ Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au 
 <img src="https://f.start.me/effectgroup.io" heigth="12" width="12"> [Effect Group](https://effectgroup.io/) <br>
 <img src="https://f.start.me/id.occrp.org" heigth="12" width="12"> [OCCRP ID](https://id.occrp.org/databases/#canada) <br>
 ## SOCMINT
+<br>
 <img src="https://f.start.me/synapsint.com" heigth="12" width="12"> [SynapsInt](https://synapsint.com/) <br>
 <img src="https://f.start.me/idcrawl.com" heigth="12" width="12"> [IDCrawl](https://www.idcrawl.com/) <br>
 <img src="https://f.start.me/webmii.com" heigth="12" width="12"> [WebMii](https://webmii.com/) <br>
@@ -85,6 +88,7 @@ Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au 
 <img src="https://f.start.me/searchpof.com" heigth="12" width="12"> [SearchPOF.com](https://searchpof.com/) <br>
 <img src="https://f.start.me/whatsmyname.app" heigth="12" width="12"> [WhatsMyName](https://whatsmyname.app/) <br>
 ## CONTACTS
+<br>
 <img src="https://f.start.me/spytox.com" heigth="12" width="12"> [Email Search](https://www.spytox.com/email-search) <br>
 <img src="https://f.start.me/verify-email.org" heigth="12" width="12"> [Verify Email](https://verify-email.org/) <br>
 <img src="https://f.start.me/trumail.io" heigth="12" width="12"> [Trumail](https://trumail.io/) Trumail is a fast and accurate email address verification API service written on top of some of the must cutting edge technologies. It was built with the intention of providing software engineers a...<br>
@@ -104,6 +108,7 @@ Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au 
 <img src="https://f.start.me/xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion.pet" heigth="12" width="12"> [DeepSearch](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion.pet/) <br>
 <img src="https://f.start.me/dehashed.com" heigth="12" width="12"> [DeHashed](https://dehashed.com/) Have you been compromised? DeHashed provides free deep-web scans and protection against credential leaks. A modern personal asset search engine created for security analysts, journalists, security ...<br>
 ## GOVERNMENT DATABASES
+<br>
 <img src="https://f.start.me/ic.gc.ca" heigth="12" width="12"> [Search for a Federal Corporation](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA) <br>
 <img src="https://f.start.me/federalcorporation.ca" heigth="12" width="12"> [Federal Corporation](https://federalcorporation.ca/) <br>
 <img src="https://f.start.me/alberta.ca" heigth="12" width="12"> [AB Staff directory](https://www.alberta.ca/staff-directory.cfm) <br>
@@ -130,6 +135,7 @@ Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au 
 <img src="https://f.start.me/cihi.ca" heigth="12" width="12"> [Canadian Institute for Health Information](https://www.cihi.ca/en) <br>
 <img src="https://f.start.me/oct.ca" heigth="12" width="12"> [Find a Teacher](https://www.oct.ca/Home/FindATeacher) <br>
 ## MAPS
+<br>
 <img src="https://f.start.me/google.ca" heigth="12" width="12"> [Google Maps Canada](https://www.google.ca/maps/) <br>
 <img src="https://f.start.me/torontohydro.com" heigth="12" width="12"> [Outage map](https://www.torontohydro.com/outage-map) <br>
 <img src="https://f.start.me/waze.com" heigth="12" width="12"> [Waze Toronto](https://www.waze.com/live-map/directions?from=place.ChIJpTvG15DL1IkRd8S0KlBVNTI) <br>
@@ -140,6 +146,7 @@ Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au 
 <img src="https://f.start.me/map.snapchat.com" heigth="12" width="12"> [Snap Map](https://map.snapchat.com/) <br>
 <img src="https://f.start.me/satellites.pro" heigth="12" width="12"> [Canada map /sat](https://satellites.pro/Canada_map) <br>
 ## POLICE / LEGAL
+<br>
 <img src="https://f.start.me/canlii.org" heigth="12" width="12"> [Canadian Legal Information Institute](https://www.canlii.org/en/) CanLII is a non-profit organization managed by the Federation of Law Societies of Canada. CanLII's goal is to make Canadian law accessible for free on the Internet. This website provides access to ...<br>
 <img src="https://f.start.me/cpic-cipc.ca" heigth="12" width="12"> [Search Firearms Serial](https://www.cpic-cipc.ca/sfa-raf-eng.htm) <br>
 <img src="https://f.start.me/c0cqk108.caspio.com" heigth="12" width="12"> [RCMP Search recent deaths](https://c0cqk108.caspio.com/dp/9156100036f195cdf0934662917c) <br>
@@ -151,15 +158,18 @@ Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au 
 <img src="https://f.start.me/archives.mcgill.ca" heigth="12" width="12"> [Montreal Council of Social Agencies](http://www.archives.mcgill.ca/resources/db/mcsasearch.htm) <br>
 <img src="https://f.start.me/tpscalls.live" heigth="12" width="12"> [tpscalls.live](https://www.tpscalls.live/) Real-time mapping of locations where police have responded to a call for service. These calls include incidents such as arrests, gun calls, collisions involving people or property, assaults, indust...<br>
 ## MEDIA / ARCHIVE
+<br>
 <img src="https://f.start.me/bac-lac.gc.ca" heigth="12" width="12"> [Library and Archives (LAC)](https://www.bac-lac.gc.ca/eng/Pages/home.aspx) As the custodian of our distant past and recent history, Library and Archives Canada (LAC) is a key resource for all Canadians who wish to gain a better understanding of who they are, individually ...<br>
 <img src="https://f.start.me/media.utoronto.ca" heigth="12" width="12"> [Media.utoronto.ca](https://media.utoronto.ca/) <br>
 <img src="https://f.start.me/resources.library.ubc.ca" heigth="12" width="12"> [Resources.library.ubc.ca](https://resources.library.ubc.ca/) <br>
 ## RADICALISATION
+<br>
 <img src="https://f.start.me/en.wikipedia.org" heigth="12" width="12"> [Canadian far-right political movements](https://en.wikipedia.org/wiki/Category:Canadian_far-right_political_movements) <br>
 <img src="https://f.start.me/search.ddosecrets.com" heigth="12" width="12"> [Data | DDoSecrets Search](https://search.ddosecrets.com/data/) <br>
 <img src="https://f.start.me/discordleaks.unicornriot.ninja" heigth="12" width="12"> [Discord | DiscordLeaks](https://discordleaks.unicornriot.ninja/discord/) <br>
 <img src="https://f.start.me/bloopbase.keybase.pub" heigth="12" width="12"> [Lefthook](https://bloopbase.keybase.pub/LEFTHOOK) <br>
 ## FINANCE / PROPERTY
+<br>
 <img src="https://f.start.me/tsx.com" heigth="12" width="12"> [TMX TSX](https://www.tsx.com/listings/listing-with-us/listed-company-directory) <br>
 <img src="https://f.start.me/m-x.ca" heigth="12" width="12"> [Montréal Exchange](https://www.m-x.ca/en/trading/data/quotes?symbol=) <br>
 <img src="https://f.start.me/zillow.com" heigth="12" width="12"> [Zillow](https://www.zillow.com/) <br>
@@ -168,6 +178,7 @@ Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au 
 <img src="https://f.start.me/sedar.com" heigth="12" width="12"> [Search for Investment Fund Documents](https://www.sedar.com/search/search_form_mf_en.htm) <br>
 <img src="https://f.start.me/gov.mb.ca" heigth="12" width="12"> [MB Assessment Property Search](https://www.gov.mb.ca/mao/public/search_select.aspx) <br>
 ## BUSINESS / CORPORATION
+<br>
 <img src="https://f.start.me/beta.canadasbusinessregistries.ca" heigth="12" width="12"> [MRAS Business Registry Search](https://beta.canadasbusinessregistries.ca/search) <br>
 <img src="https://f.start.me/albertacorporations.com" heigth="12" width="12"> [AB Business Search](https://albertacorporations.com/) <br>
 <img src="https://f.start.me/searchtempest.com" heigth="12" width="12"> [SearchTempest Craigslist](https://www.searchtempest.com/) <br>
@@ -184,6 +195,7 @@ Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au 
 <img src="https://f.start.me/ic.gc.ca" heigth="12" width="12"> [Canadian Intellectual Property Office](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/Home) <br>
 <img src="https://f.start.me/bbb.org" heigth="12" width="12"> [Search the BBB Directory](https://www.bbb.org/search) <br>
 ## SEARCH ENGINE
+<br>
 <img src="https://f.start.me/google.ca" heigth="12" width="12"> [Google Advanced Search](https://www.google.ca/advanced_search) <br>
 <img src="https://f.start.me/google.ca" heigth="12" width="12"> [Google Images](https://www.google.ca/imghp?hl=en&ogbl) <br>
 <img src="https://f.start.me/datasetsearch.research.google.com" heigth="12" width="12"> [Dataset Search](https://datasetsearch.research.google.com/) <br>
@@ -213,6 +225,7 @@ Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au 
 <img src="https://f.start.me/same.energy" heigth="12" width="12"> [same.energy](https://same.energy/) <br>
 <img src="https://f.start.me/2lingual.com" heigth="12" width="12"> [2lingual](https://2lingual.com/) Bilingual Google Search.  Get Google Search Results alongside Google Cross Language Search Results.  In addition, a Query Translation Option can be activated or deactivated for Google Cross Languag...<br>
 ## TRANSPORTATION
+<br>
 <img src="https://f.start.me/google.com" heigth="12" width="12"> [License Plates in Canada](https://www.google.com/maps/d/viewer?mid=1zXYL2BF2MByEduLzYN5brVnli9J3cIlv) <br>
 <img src="https://f.start.me/gtaupdate.com" heigth="12" width="12"> [GTA Update](https://gtaupdate.com/) <br>
 <img src="https://f.start.me/totransit.ca" heigth="12" width="12"> [TOTransit](https://totransit.ca/) <br>
@@ -247,6 +260,7 @@ Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au 
 <img src="https://f.start.me/liveworldwebcam.net" heigth="12" width="12"> [Canada  webcams](https://liveworldwebcam.net/country/Canada/1_page.html) <br>
 <img src="https://f.start.me/city-webcams.com" heigth="12" width="12"> [Local webcams in Canada](https://city-webcams.com/streaming-canada) <br>
 ## (ANTI) FORENSICS
+<br>
 <img src="https://f.start.me/canarytokens.org" heigth="12" width="12"> [Canarytokens](https://canarytokens.org/generate) Canarytokens is a free tool that helps you discover you’ve been breached by having attackers announce themselves.  The tokens allow you to implant traps around your network and notifies you as soon...<br>
 <img src="https://f.start.me/15.ai" heigth="12" width="12"> [15.ai](https://15.ai/) <br>
 <img src="https://f.start.me/forensicdots.de" heigth="12" width="12"> [Dotspotter](https://www.forensicdots.de/) <br>
@@ -271,6 +285,7 @@ Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au 
 <img src="https://f.start.me/pgptool.org" heigth="12" width="12"> [PGP Tool](https://pgptool.org/) <br>
 <img src="https://f.start.me/pastepixel.com" heigth="12" width="12"> [Email tracking made easy](https://www.pastepixel.com/) <br>
 ## IDENTITY
+<br>
 <img src="https://f.start.me/lastpass.com" heigth="12" width="12"> [Username Generator](https://www.lastpass.com/features/username-generator) <br>
 <img src="https://f.start.me/fakenamegenerator.com" heigth="12" width="12"> [Fake Name Generator](https://www.fakenamegenerator.com/) <br>
 <img src="https://f.start.me/behindthename.com" heigth="12" width="12"> [Random Name Generator](https://www.behindthename.com/random/) <br>
@@ -286,6 +301,7 @@ Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au 
 <img src="https://f.start.me/simplelogin.io" heigth="12" width="12"> [SimpleLogin](https://simplelogin.io/) <br>
 <img src="https://f.start.me/anonaddy.com" heigth="12" width="12"> [AnonAddy](https://anonaddy.com/) <br>
 ## NETWORK / DOMAIN / RADIO
+<br>
 <img src="https://f.start.me/domainbigdata.com" heigth="12" width="12"> [domainbigdata](https://domainbigdata.com/) <br>
 <img src="https://f.start.me/metadefender.opswat.com" heigth="12" width="12"> [Opswat.](https://metadefender.opswat.com/) <br>
 <img src="https://f.start.me/zoomeye.org" heigth="12" width="12"> [zoomeye](https://www.zoomeye.org/) <br>
@@ -300,12 +316,14 @@ Une liste d'outils qui peut être utilisé dans le cadre de recherches OSINT au 
 <img src="https://f.start.me/ipfs-search.com" heigth="12" width="12"> [Ipfs-search.com](https://ipfs-search.com/#/search) <br>
 <img src="https://f.start.me/blockscan.com" heigth="12" width="12"> [Blockscan.com](https://blockscan.com/) <br>
 ## ANONYMITY
+<br>
 <img src="https://f.start.me/matweb.info" heigth="12" width="12"> [Remove Metadata](https://matweb.info/) <br>
 <img src="https://f.start.me/everestpipkin.github.io" heigth="12" width="12"> [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) <br>
 <img src="https://f.start.me/torproject.org" heigth="12" width="12"> [The Tor Project](https://www.torproject.org/) <br>
 <img src="https://f.start.me/protonvpn.com" heigth="12" width="12"> [ProtonVPN](https://protonvpn.com/) <br>
 <img src="https://f.start.me/psiphon.ca" heigth="12" width="12"> [Psiphon](https://www.psiphon.ca/) <br>
 ## SANDBOXES
+<br>
 <img src="https://f.start.me/kasmweb.com" heigth="12" width="12"> [Disposable Browser / Desktop](https://kasmweb.com/) Streaming containerized apps and desktops to end-users. The Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of...<br>
 <img src="https://f.start.me/codepen.io" heigth="12" width="12"> [CodePen](https://codepen.io/) <br>
 <img src="https://f.start.me/genymotion.com" heigth="12" width="12"> [Genymotion](https://www.genymotion.com/) <br>
